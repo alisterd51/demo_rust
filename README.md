@@ -26,6 +26,9 @@ cargo run
 ```shell
 cargo clean
 ```
+```shell
+cargo doc --open
+```
 (for release)
 ```shell
 cargo build --release
