@@ -15,6 +15,9 @@ use cargo
 cargo new project_name
 ```
 ```shell
+cargo check
+```
+```shell
 cargo build
 ```
 ```shell
@@ -28,5 +31,5 @@ cargo clean
 cargo build --release
 ```
 ```shell
-upx target/release/project_name
+upx -9 target/release/project_name
 ```
