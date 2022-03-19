@@ -23,3 +23,10 @@ cargo run
 ```shell
 cargo clean
 ```
+(for release)
+```shell
+cargo build --release
+```
+```shell
+upx target/release/project_name
+```
