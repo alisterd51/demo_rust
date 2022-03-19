@@ -34,5 +34,5 @@ cargo doc --open
 cargo build --release
 ```
 ```shell
-upx -9 target/release/project_name
+upx --brute target/release/project_name
 ```
