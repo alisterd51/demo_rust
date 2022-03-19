@@ -1,9 +1,13 @@
 # demo_rust
 
-rustc file.rs
-rustfmt file.rs
+use rust compiler
+* rustc file.rs
 
-cargo new project_name
-cargo build
-cargo run
-cargo clean
+use rust standard corrector
+* rustfmt file.rs
+
+use cargo
+* cargo new project_name
+* cargo build
+* cargo run
+* cargo clean
